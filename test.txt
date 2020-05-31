@@ -1,0 +1,8 @@
+npm init -y
+npm add webpack webpack-cli or npm add webpack webpack-cli --dev
+npx webpack
+npx webpack --mode production
+npm add css-loader style-loader
+npm add postcss-loader autoprefixier
+npm add babel-loader @babel/core @babel/preset-env
+npm add eslint eslint-loader babel-eslint
